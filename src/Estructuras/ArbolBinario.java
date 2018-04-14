@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 package Estructuras;
-
+/**
+ * @autor Rosalba Peralta
+ */
 import Nodos.Nodo;
 
 public class ArbolBinario {
